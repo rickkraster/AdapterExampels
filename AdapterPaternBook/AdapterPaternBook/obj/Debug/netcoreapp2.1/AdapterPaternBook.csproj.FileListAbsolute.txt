@@ -1,0 +1,11 @@
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\bin\Debug\netcoreapp2.1\AdapterPaternBook.deps.json
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\bin\Debug\netcoreapp2.1\AdapterPaternBook.runtimeconfig.json
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\bin\Debug\netcoreapp2.1\AdapterPaternBook.runtimeconfig.dev.json
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\bin\Debug\netcoreapp2.1\AdapterPaternBook.dll
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\bin\Debug\netcoreapp2.1\AdapterPaternBook.pdb
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\obj\Debug\netcoreapp2.1\AdapterPaternBook.csprojAssemblyReference.cache
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\obj\Debug\netcoreapp2.1\AdapterPaternBook.csproj.CoreCompileInputs.cache
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\obj\Debug\netcoreapp2.1\AdapterPaternBook.AssemblyInfoInputs.cache
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\obj\Debug\netcoreapp2.1\AdapterPaternBook.AssemblyInfo.cs
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\obj\Debug\netcoreapp2.1\AdapterPaternBook.dll
+C:\Users\rickk\source\repos\AdapterPaternBook\AdapterPaternBook\obj\Debug\netcoreapp2.1\AdapterPaternBook.pdb

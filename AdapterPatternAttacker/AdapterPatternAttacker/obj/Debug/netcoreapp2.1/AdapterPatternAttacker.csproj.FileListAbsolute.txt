@@ -1,0 +1,11 @@
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\bin\Debug\netcoreapp2.1\AdapterPatternAttacker.deps.json
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\bin\Debug\netcoreapp2.1\AdapterPatternAttacker.runtimeconfig.json
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\bin\Debug\netcoreapp2.1\AdapterPatternAttacker.runtimeconfig.dev.json
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\bin\Debug\netcoreapp2.1\AdapterPatternAttacker.dll
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\bin\Debug\netcoreapp2.1\AdapterPatternAttacker.pdb
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\obj\Debug\netcoreapp2.1\AdapterPatternAttacker.csprojAssemblyReference.cache
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\obj\Debug\netcoreapp2.1\AdapterPatternAttacker.csproj.CoreCompileInputs.cache
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\obj\Debug\netcoreapp2.1\AdapterPatternAttacker.AssemblyInfoInputs.cache
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\obj\Debug\netcoreapp2.1\AdapterPatternAttacker.AssemblyInfo.cs
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\obj\Debug\netcoreapp2.1\AdapterPatternAttacker.dll
+C:\Users\rickk\source\repos\AdapterPatternAttacker\AdapterPatternAttacker\obj\Debug\netcoreapp2.1\AdapterPatternAttacker.pdb
